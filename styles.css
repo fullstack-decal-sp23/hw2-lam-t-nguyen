@@ -56,6 +56,15 @@ h2 {
   top: 50px;
 }
 
+.label { 
+  color: lightseagreen;
+}
+
+.label:hover {
+  font-size: larger;
+  color: orange;
+}
+
 /* Colors */
 
 /* QUESTION 1 */
